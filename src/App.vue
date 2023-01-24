@@ -114,6 +114,7 @@ body {
 }
 .text-messages {
   margin: 36px 0;
+  overflow-x: hidden;
 }
 .text-messages-container {
   background-color: #f4f4ef;
