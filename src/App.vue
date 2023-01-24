@@ -113,8 +113,9 @@ body {
   align-items: center;
 }
 .text-messages {
-  margin: 36px 0;
+  margin: 36px auto;
   overflow-x: hidden;
+  max-width: 800px;
 }
 .text-messages-container {
   background-color: #f4f4ef;
