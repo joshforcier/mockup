@@ -1,4 +1,7 @@
-import { createApp } from 'vue'
-import App from './App.vue'
+import { createApp } from "vue";
+import App from "./App.vue";
 
-createApp(App).mount('#app')
+// importing AOS css style globally
+import "aos/dist/aos.css";
+
+createApp(App).mount("#app");
