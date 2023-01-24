@@ -62,7 +62,7 @@ export default {
     TextMessage,
     RoundButton,
   },
-  beforeMount() {
+  mounted() {
     AOS.init();
   },
 };
